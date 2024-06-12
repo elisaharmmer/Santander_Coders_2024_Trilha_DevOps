@@ -6,6 +6,14 @@
 $ cd
 $ ls
 ```
+* O que é Git;
+
+* Repositórios do Git (local e remoto);
+
+* Git branch;
+
+* GitHub;
+
 * Estados do Git:
 ```powershell
 > Tracked;
@@ -20,3 +28,14 @@ $ ls
 
 > Commited.
 ```
+* Comandos do Git:
+```powershell
+> Git init;
+> Git clone;
+> Git status;
+> Git add .;
+> Git diff;
+> Git commit;
+> Git log;
+> Git restore --staged <"">;
+> Git checkout
