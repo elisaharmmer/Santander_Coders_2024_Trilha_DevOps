@@ -32,19 +32,19 @@ $ ls
 ```powershell
 > Git init: Inicializa um novo repositório Git em um diretório. Cria um repositório vazio;
 
-> Git clone: Faz uma cópia de um repositório existente em um novo diretório. É usado para baixar um repositório existente de um servidor remoto;
+> Git clone: Faz uma cópia de um repositório existente em um novo diretório;
 
-> Git status: Mostra o estado atual do repositório, incluindo quais arquivos foram modificados, adicionados ou removidos, mas ainda não foram confirmados (committed);
+> Git status: Mostra o estado atual;
 
-> Git add .: Adiciona todas as mudanças no diretório atual ao próximo commit. Inclui novos arquivos, modificações e exclusões;
+> Git add .: Adiciona todas as mudanças no diretório atual ao próximo commit;
 
-> Git diff: Exibe as diferenças entre os arquivos modificados e a última versão confirmada (committed). Ajuda a ver o que foi alterado antes de confirmar;
+> Git diff: Exibe as diferenças entre os arquivos modificados e a última versão confirmada;
 
-> Git commit: Salva as mudanças adicionadas ao repositório. É como tirar um "instantâneo" do estado atual do código. Geralmente é acompanhado de uma mensagem de commit para descrever as mudanças;
+> Git commit: Salva as mudanças adicionadas ao repositório;
 
-> Git log: Mostra o histórico de commits do repositório, incluindo mensagens de commit, autor, data e ID dos commits;
+> Git log: Mostra o histórico de commits;
 
-> Git restore --staged <arquivo>: Remove o arquivo especificado da área de stage (preparação para commit), mas mantém as mudanças no diretório de trabalho. Útil para desfazer a adição de um arquivo antes do commit;
+> Git restore --staged <arquivo>: Remove o arquivo especificado da área de stage;
 
-> Git checkout: Muda para uma outra branch ou restaura arquivos do repositório. Pode ser usado para alternar entre diferentes versões do código;
+> Git checkout: Muda para uma outra branch.
 ```
