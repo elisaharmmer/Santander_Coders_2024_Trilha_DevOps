@@ -1,3 +1,3 @@
 # Curso Digital: Git e Versionamento (Santander Coders 2024)
-
-## Gravando mudanças no repositório.
+Esta é uma aplicação de teste para entendimento dos estados do Git!
+# Gravando mudanças no repositório.
