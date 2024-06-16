@@ -1,5 +1,5 @@
 # Introdução ao Linux
-* O que é Linux?
+* _O que é Linux?_
 
 Linux é um sistema operacional de código aberto (Open Source) baseado em Unix, criado por Linus Torvalds em 1991. Ele é amplamente utilizado em servidores, supercomputadores, dispositivos móveis e outros dispositivos, sendo muito conhecido por sua estabilidade, segurança, flexibilidade e capacidade de customização. Além disso, o Linux possui uma grande variedade de distribuições/variações disponíveis para diferentes propósitos e necessidades!
 
@@ -63,27 +63,27 @@ Exemplo de uso: "cat /etc/issue".
 
 # Movendo e apagando arquivos e diretórios
 
-* Como mover um arquivo para um diretório?
+* _Como mover um arquivo para um diretório?_
 ```sh
 'mv (de "move", em Inglês) <nome do arquivo> <nome do diretório>'
 ```
 
-* Como copiar um arquivo?
+* _Como copiar um arquivo?_
 ```sh
 'cp <nome do diretório>/<nome do arquivo>' . 
 ```
 
-* Como renomear um arquivo?
+* _Como renomear um arquivo?_
 ```sh
 'mv <nome do arquivo> <novo nome do arquivo>
 ```
-* Como remover um arquivo?
+* _Como remover um arquivo?_
 ```sh
 'rm <nome do arquivo>'
 
 OBSERVAÇÃO: Ao remover arquivos no Linux utilizando o terminal, não é possível restaurá-lo! Tome muito cuidado com este comando e utilize-o com cautela.
 ```
-* Como remover um diretório?
+* _Como remover um diretório?_
 ```sh
 Para remover um diretório, é necessário utilizar os seguintes parâmetros:
 
@@ -99,7 +99,7 @@ Para remover um diretório, é necessário utilizar os seguintes parâmetros:
 > 'sudo apt-get install < nome do programa >': Instala o programa especificado.
 ```
 # Edição e Editores de Textos
-* Quais são os principais editores?
+* _Quais são os principais editores?_
 ```sh
 > vi
 ```

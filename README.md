@@ -1,50 +1,32 @@
-# Módulo 1: Git e Versionamento
-* Este é o 1° módulo da Trilha DevOps ofertado pelo Santander em parceria com a Ada Tech! Nesse módulo, estamos aprendendo sobre Git e Versionamento.
-# O que aprendemos até o momento?
-* Comandos Básicos de Shell:
-```powershell
-$ cd
-$ ls
-```
-* O que é Git;
+# Santander Coders 2024 - Trilha DevOps
 
-* Repositórios do Git (local e remoto);
+Olá! Seja bem-vindo(a) ao repositório dos meus estudos na trilha DevOps ofertada pelo _Santander Coders 2024_ em parceria com a _Ada Tech_. Este curso abrange uma variedade de tópicos essenciais para profissionais interessados em DevOps, combinando práticas de desenvolvimento de software com operações de infraestrutura e entrega contínua.
 
-* Git branch;
+# Objetivo do Curso
 
-* GitHub;
+O objetivo deste curso é proporcionar uma compreensão abrangente dos princípios e práticas fundamentais de DevOps, capacitando os participantes a integrar desenvolvimento e operações de forma eficiente e escalável.
 
-* Estados do Git:
-```powershell
-> Tracked;
+# Tópicos Abordados
 
-> Unmodified;
+* Módulo 1: Git e Versionamento.
 
-> Modified;
+* Módulo 2: Redes e Sistemas.
 
-> Staged;
+* Módulo 3: Introdução à Algoritmos.
 
-> Untracked;
+* Módulo 4: Sistema Operacional Linux.
 
-> Commited.
-```
-* Comandos do Git:
-```powershell
-> Git init: Inicializa um novo repositório Git em um diretório. Cria um repositório vazio;
+* Módulo 5: Introdução à Cloud Computing.
 
-> Git clone: Faz uma cópia de um repositório existente em um novo diretório;
+* Módulo 6: Introdução ao Terraform.
 
-> Git status: Mostra o estado atual;
+* Módulo 7: Introdução à Infraestrutura Web.
 
-> Git add .: Adiciona todas as mudanças no diretório atual ao próximo commit;
+* Módulo 8: Conhecendo sobre Infraestrutura AWS.
 
-> Git diff: Exibe as diferenças entre os arquivos modificados e a última versão confirmada;
+* Módulo 9: Conteinerização com Docker.
 
-> Git commit: Salva as mudanças adicionadas ao repositório;
+Durante o curso, tive a oportunidade de pôr em prática os conhecimentos teóricos aprendidos utilizando as ferramentas reais abordadas, com auxílio dos Instrutores Ada. Além disso, pude fixar os conteúdos por meio de exercícios disponíveis durante toda a grade do curso.
 
-> Git log: Mostra o histórico de commits;
 
-> Git restore --staged <arquivo>: Remove o arquivo especificado da área de stage;
-
-> Git checkout: Muda para uma outra branch.
-```
+_Este repositório servirá como um registro dos meus estudos e desenvolvimento ao longo da trilha DevOps do Santander Coders 2024._
